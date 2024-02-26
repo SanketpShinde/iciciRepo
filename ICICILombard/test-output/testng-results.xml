@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T04:18:17Z" name="Default suite" finished-at="2024-02-16T04:18:41Z" duration-ms="23595">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T04:18:17Z" name="Default test" finished-at="2024-02-16T04:18:41Z" duration-ms="23595">
+      <class name="iciciLombard_POM_TestNG_DDF_BaseClass_UtilityClass.ICICITestNG">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:iciciLombard_POM_TestNG_DDF_BaseClass_UtilityClass.ICICITestNG@48e1f6c7]" started-at="2024-02-16T04:18:17Z" name="openBrowser" finished-at="2024-02-16T04:18:27Z" duration-ms="9774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="logInOnApp()[pri:0, instance:iciciLombard_POM_TestNG_DDF_BaseClass_UtilityClass.ICICITestNG@48e1f6c7]" started-at="2024-02-16T04:18:27Z" name="logInOnApp" finished-at="2024-02-16T04:18:36Z" duration-ms="9538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInOnApp -->
+        <test-method signature="VerifyProfileName()[pri:0, instance:iciciLombard_POM_TestNG_DDF_BaseClass_UtilityClass.ICICITestNG@48e1f6c7]" started-at="2024-02-16T04:18:36Z" name="VerifyProfileName" finished-at="2024-02-16T04:18:41Z" duration-ms="4247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProfileName -->
+        <test-method is-config="true" signature="logOutFromApp()[pri:0, instance:iciciLombard_POM_TestNG_DDF_BaseClass_UtilityClass.ICICITestNG@48e1f6c7]" started-at="2024-02-16T04:18:41Z" name="logOutFromApp" finished-at="2024-02-16T04:18:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:iciciLombard_POM_TestNG_DDF_BaseClass_UtilityClass.ICICITestNG@48e1f6c7]" started-at="2024-02-16T04:18:41Z" name="closeBrowser" finished-at="2024-02-16T04:18:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- iciciLombard_POM_TestNG_DDF_BaseClass_UtilityClass.ICICITestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
